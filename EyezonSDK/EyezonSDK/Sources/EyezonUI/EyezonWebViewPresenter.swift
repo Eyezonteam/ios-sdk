@@ -8,7 +8,7 @@
 import Foundation
 import UIKit
 import AVFoundation
-@_implementationOnly import  SwiftyJSON
+@_implementationOnly import SwiftyJSON
 
 /// View protocol
 protocol EyezonWebViewProtocol: AnyObject {
